@@ -46,6 +46,6 @@ Our system is a fusion of computer vision and machine learning. Here’s a quick
    - Supports registration → login → logout workflow.
 
 ## 🤝 Contributing
-This project is a work in progress, and we'd love for you to join us! Whether you want to fix a bug, improve the anti-spoofing, or add a new feature, feel free to open an issue or submit a pull request. Every contribution helps make this a better and more secure system.
+This project is a work in progress, whether you want to fix a bug, improve the anti-spoofing, or add a new feature, feel free to open an issue or submit a pull request. Every contribution helps make this a better and more secure system.
 
 
