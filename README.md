@@ -17,16 +17,15 @@ Prerequisites
 2. A webcam
 
 3. pip (for installing dependencies)
-
-- Installation
-  - Clone the project:
-    - git clone https://github.com/Silverfang180/Facelogix
-    - cd Facelogix
+   - Installation
+     - Clone the project:
+       - git clone https://github.com/Silverfang180/Facelogix
+       - cd Facelogix
 3. Create a virtual environment (highly recommended):
-- python -m venv venv
-- source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+   - python -m venv venv
+   - source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 4. Install the magic ingredients:
-- pip install -r requirements.txt
+   - pip install -r requirements.txt
 ## 🧠 How It Works (The Techy Bit)
 Our system is a fusion of computer vision and machine learning. Here’s a quick rundown of the main components:
 1. Face Detection
